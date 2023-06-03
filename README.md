@@ -72,5 +72,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnesh-02&show_icons=true&locale=en" alt="arnesh-02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnesh-02&" alt="arnesh-02" /></p>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Arnesh-02/Arnesh-02/blob/output/github-contribution-grid-snake.svg)
 <br clear="both">
