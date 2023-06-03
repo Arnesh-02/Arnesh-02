@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div align="center">
-  <img height="300" width="1500"src="https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg"  />
+  <img height="viewport" src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png"  />
 </div>
 
 ###
@@ -18,17 +20,22 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<div align="left">
+</div>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
+ <img align="right" height="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"  />   
 <p align="left">I'm Arnesh <br><br>- 🔭 "Master of misteps"<br>- 📚 I'm currently learning C,python and AWS<br>-📝 You can ask me about C,HTML &CSS<br>- ⚡ Fun fact: I'm a 'adventourous aficionado'</p>
 
-###
+ 
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -56,23 +63,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
 
 <h3 align="left">🔥   My Stats :</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnesh-02&show_icons=true&locale=en&layout=compact" alt="arnesh-02" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnesh-02&show_icons=true&locale=en" alt="arnesh-02" /></p>
 
-<div align="left">
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnesh-02&" alt="arnesh-02" /></p>
+<br clear="both">
 
-###
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img align="right" height="230" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
-
-###
