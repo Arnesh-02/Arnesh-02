@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="viewport" src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png"  />
+  <img height="viewport" width="viewport"src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"  />
 </div>
 
 ###
