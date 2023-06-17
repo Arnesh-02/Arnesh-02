@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="viewport" width="viewport"src="https://i.pinimg.com/originals/23/f4/73/23f4738cecd5043372f7f1f12be1441d.jpg"  />
+  <img height="viewport" width="viewport"src="https://img.freepik.com/premium-photo/monitors-hacking-computers-generative-ai-generative-ai_170984-6796.jpg?w=2000"  />
 </div>
 
 ###
