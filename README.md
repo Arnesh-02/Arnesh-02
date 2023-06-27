@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="viewport" width="viewport" src="https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif" />
+  <img  src="https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif" height="400px" width="viewport" />
 </div>
 
 <div align="center">
