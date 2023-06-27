@@ -1,10 +1,8 @@
 <br clear="both">
 
 <div align="center">
-  <img height="viewport" width="viewport"src="https://img.freepik.com/premium-photo/monitors-hacking-computers-generative-ai-generative-ai_170984-6796.jpg?w=2000"  />
+  <img height="viewport" width="viewport" src="https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif" />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arneshrajendran" target="_blank">
