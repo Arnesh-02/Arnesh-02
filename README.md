@@ -1,10 +1,10 @@
 <br clear="both">
 
-<div align="center">
-  <img  src="https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif" height="400px" width="viewport" />
+<div align="center" >
+  <img  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" height="viewport" width="viewport" />
+  
 </div>
-
-<div align="center">
+<div align="center" styl">
   <a href="https://www.linkedin.com/in/arneshrajendran" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
