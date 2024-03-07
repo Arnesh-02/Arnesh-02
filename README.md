@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋 I'm Arnesh Rajendran</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
  <img align="right" height="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"  />   
-<p align="left">I'm Arnesh <br><br>- 🔭 "I love to write quotes other than coding"<br>- 📚 I'm currently learning Java, mysql and AWS<br>- ⚡ Fun qoute: "My code compiles! Now, to figure out what it actually does..."</p>
+<p align="left"><br>- 🔭 "I love to write quotes other than coding"<br>- 📚 I'm currently learning Java, mysql and AWS<br>- ⚡ Fun qoute: "My code compiles! Now, to figure out what it actually does..."</p>
 
  
 
@@ -39,11 +39,11 @@
 ###
 
 <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
