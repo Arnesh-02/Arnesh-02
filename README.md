@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center" >
-  <img  src="[https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966](https://tse4.mm.bing.net/th?id=OIP.62RrJHo9ahmmJqzmvkVpVAHaB7&pid=Api&P=0&h=180)](https://64.media.tumblr.com/b78267e7eeb75f622e32d64e2788befd/tumblr_ml2y7yQY071s9swkfo1_1280.gif)" height="viewport" width="viewport" />
+  <img  src="https://camo.githubusercontent.com/28e64d517089d4b23ff5716340d789b4af32b3aa44001a62677f273d3ee898d5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" height="viewport" width="viewport" />
   
 </div>
 <div align="center" styl">
@@ -33,7 +33,7 @@
 
 ###
  <img align="right" height="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"  />   
-<p align="left">I'm Arnesh <br><br>- 🔭 "Master of misteps"<br>- 📚 I'm currently learning C,python and AWS<br>-📝 You can ask me about C,HTML &CSS<br>- ⚡ Fun fact: I'm a 'adventourous aficionado'</p>
+<p align="left">I'm Arnesh <br><br>- 🔭 "I love to write quotes other than coding"<br>- 📚 I'm currently learning Java, mysql and AWS<br>- ⚡ Fun qoute: "My code compiles! Now, to figure out what it actually does..."</p>
 
  
 
@@ -48,17 +48,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
