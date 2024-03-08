@@ -11,11 +11,14 @@
   <a href="arnesha4261@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://www.hackerrank.com/profile/arnesha4261" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX0gVCOoLbKdrg__dPh-Y5M8i3BpMPyX7YzJJqF5hp_2PAHwdXqibpC1eN3l8EHIO32w&usqp=CAU" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Arnesh Rajendran</h1>
+<h1 align="center">Hey 👋 I'm Arnesh Rajendran</h1>
 
 ###
 
@@ -24,40 +27,46 @@
 
 ###
 
+<h3 align="left">&#128104 About Me </h3>
 
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
  <img align="right" height="200" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"  />   
-<p align="left"><br>- 🔭 "I love to write quotes other than coding"<br>- 📚 I'm currently learning Java, mysql and AWS<br>- ⚡ Fun qoute: "My code compiles! Now, to figure out what it actually does..."</p>
+<p align="left">
+  <br>
+  - >>> Hi, I'm a Backend Developer from India!<br>
+  - >>> Currently mastering Java, MySQL, and navigating the AWS cloud.<br>
+  - >>> I love to write quotes, almost as much as coding itself.<br>
+  - >>> "Untangling complex logic and building the invisible architecture – that's what makes my backend developer heart sing."
+</p>
+<br>
 
  
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">&#128204 Language and tools</h3>
 
 ###
+<br>
+
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" height="40" alt="amazonwebservices logo"  />
+  <img src="https://static.javatpoint.com/core/images/java-logo1.png" height="40" alt="javapoint logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-
+<br>
 <h3 align="left">🔥   My Stats :</h3>
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnesh-02&show_icons=true&locale=en&layout=compact" alt="arnesh-02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnesh-02&show_icons=true&locale=en" alt="arnesh-02" /></p>
