@@ -34,8 +34,8 @@
   <br>
   - >>> Hi, I'm a Backend Developer from India!<br>
   - >>> Currently mastering Java, MySQL, and navigating the AWS cloud.<br>
+  - >>> Learning basics of algorithms and data structures.<br>
   - >>> I love to write quotes, almost as much as coding itself.<br>
-  - >>> "Untangling complex logic and building the invisible architecture – that's what makes my backend developer heart sing."
 </p>
 <br>
 
